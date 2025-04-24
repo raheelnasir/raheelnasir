@@ -9,8 +9,15 @@
 
 ## 🚀 About Me
 
-Dynamic Full Stack Developer specializing in modern web and mobile ecosystems, with expertise in Node.js, Next.js, React, ASP.NET Core, and React Native. Proven track record of delivering high-performance, scalable applications by leveraging frameworks like Next.js SSR and React Native for cross-platform solutions. Skilled in architecting RESTful APIs, optimizing databases (MongoDB, AppWrite), and crafting responsive UIs with React/Tailwind CSS. Passionate about clean architecture, end-to-end development, and solving complex technical challenges to drive user-centric innovation.
+Full Stack Developer with 2+ years of expertise building high-performance web and mobile applications. I specialize in the JavaScript/TypeScript ecosystem (React, Next.js, Node.js) and .NET technologies, creating scalable solutions that deliver measurable business impact.
 
+My technical achievements include:
+- Reducing application latency by 35% through performance optimization
+- Boosting SEO rankings by 40% via server-side rendering implementations
+- Maintaining 99% uptime for applications serving 5,000+ monthly users
+- Streamlining payment workflows for 500+ users through Stripe integration
+
+I'm passionate about clean architecture, responsive design, and creating exceptional user experiences. I thrive in collaborative environments and enjoy tackling complex technical challenges.
 ## 🛠️ Skills
 
 ### Languages
